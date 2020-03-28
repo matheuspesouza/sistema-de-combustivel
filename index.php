@@ -22,7 +22,7 @@
 				</ul>
 			</div>
 		</div>
-		
+		<!-- somento um comentario de teste -->
 		<div class="painel">
 			<h2>Cálculo do valor (R$) do consumo</h2>
 			<div class="conteudo-painel">
