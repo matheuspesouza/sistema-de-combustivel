@@ -36,7 +36,7 @@
 					<button class="botao" type="submit">Calcular</button>
 				</form>				
 			</div>
-		</div>		
+		</div>		 
 
 	</main>	
 </body>
