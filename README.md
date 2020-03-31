@@ -1,4 +1,4 @@
-# sistema-de-combustivel
+# Sistema-de-combustivel
 Esse sistema é para aprendizado de PHP. É um sistema simples que calcula o consumo de combustível.
 Esta aplicação tem como finalidade demonstrar os valores que serão gastos com combustível durante uma viagem, 
 com base no consumo do seu veículo, e com a distância determinada por você!
